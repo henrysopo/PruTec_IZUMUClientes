@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proy\\IZUMUClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|C:\\Proy\\IZUMUClientes\\izumuclientes.webapp2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|C:\\Proy\\IZUMUClientes\\izumuclientes.webapp2\\serviceapi\\serviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\serviceapi\\serviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C7CEB4-6A42-44E9-8DA1-395F2786242B}|IZUMUClientes.WebApi\\IZUMUClientes.WebApi.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapi\\models\\clientemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C7CEB4-6A42-44E9-8DA1-395F2786242B}|IZUMUClientes.WebApi\\IZUMUClientes.WebApi.csproj|solutionrelative:izumuclientes.webapi\\models\\clientemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C7CEB4-6A42-44E9-8DA1-395F2786242B}|IZUMUClientes.WebApi\\IZUMUClientes.WebApi.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C7CEB4-6A42-44E9-8DA1-395F2786242B}|IZUMUClientes.WebApi\\IZUMUClientes.WebApi.csproj|solutionrelative:izumuclientes.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\models\\planmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\models\\planmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C7CEB4-6A42-44E9-8DA1-395F2786242B}|IZUMUClientes.WebApi\\IZUMUClientes.WebApi.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapi\\models\\planmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C7CEB4-6A42-44E9-8DA1-395F2786242B}|IZUMUClientes.WebApi\\IZUMUClientes.WebApi.csproj|solutionrelative:izumuclientes.webapi\\models\\planmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|c:\\proy\\izumuclientes\\izumuclientes.webapp2\\serviceapi\\iserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1C2D00-8EF9-4C26-B2EB-C7BFE08D3F1D}|IZUMUClientes.WebApp2\\IZUMUClientes.WebApp2.csproj|solutionrelative:izumuclientes.webapp2\\serviceapi\\iserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAASwHcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:30:36.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IServiceApi.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\ServiceApi\\IServiceApi.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\ServiceApi\\IServiceApi.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\ServiceApi\\IServiceApi.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\ServiceApi\\IServiceApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:08:24.711Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceApi.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\ServiceApi\\ServiceApi.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\ServiceApi\\ServiceApi.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\ServiceApi\\ServiceApi.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\ServiceApi\\ServiceApi.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:15:17.755Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T10:30:58.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Cliente\\Details.cshtml",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Views\\Cliente\\Details.cshtml",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Cliente\\Details.cshtml",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Views\\Cliente\\Details.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:48:41.438Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:51:02.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:50:36.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T11:48:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T11:48:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApi\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApi\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApi\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApi\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:29:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteModels.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApi\\Models\\ClienteModels.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApi\\Models\\ClienteModels.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApi\\Models\\ClienteModels.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApi\\Models\\ClienteModels.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAC8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:41:20.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAApwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T10:08:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:49:22.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlanModels.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Models\\PlanModels.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApp2\\Models\\PlanModels.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApp2\\Models\\PlanModels.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApp2\\Models\\PlanModels.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:57:08.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlanModels.cs",
+              "DocumentMoniker": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApi\\Models\\PlanModels.cs",
+              "RelativeDocumentMoniker": "IZUMUClientes.WebApi\\Models\\PlanModels.cs",
+              "ToolTip": "C:\\Proy\\IZUMUClientes\\IZUMUClientes.WebApi\\Models\\PlanModels.cs",
+              "RelativeToolTip": "IZUMUClientes.WebApi\\Models\\PlanModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:41:15.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+﻿@model IEnumerable<IZUMUClientes.WebApp2.Models.ClienteModels>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tipoDoc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.numeroDocumento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fechaNacimiento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.primerNombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.segundoNombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.primerApellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.segundoApellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.numeroCelular)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.idPlan)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombrePlan)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.tipoDoc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.numeroDocumento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fechaNacimiento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.primerNombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.segundoNombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.primerApellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.segundoApellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.numeroCelular)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.idPlan)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombrePlan)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { tipoDoc = item.tipoDoc, numDoc = item.numeroDocumento }, new { @class = "btn btn-primary" }) |
+            @Html.ActionLink("Details", "Details", new { tipoDoc = item.tipoDoc, numDoc = item.numeroDocumento }, new { @class = "btn btn-primary" }) |
+            @Html.ActionLink("Delete", "Delete", new { tipoDoc = item.tipoDoc, numDoc = item.numeroDocumento }, new { @class = "btn btn-primary" })
+        </td>
+    </tr>
+}
+
+</table>
